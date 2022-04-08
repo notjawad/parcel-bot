@@ -16,7 +16,9 @@ def emojify(status):
     elif 'awaiting item' in status.lower():
         return '🕑'
     elif 'out for delivery' in status.lower():
-        return '🚚🏠'
+        return '🚚'
+    elif 'expects item for mailing' in status.lower():
+        return '📥'
     else:
         return ''
 

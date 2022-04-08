@@ -23,6 +23,10 @@ See `help` command for more.
 ## Preview
 ![Preview](https://i.gyazo.com/ce771d1d26ba137fa81d90c4582e27cc.png)
 
+## TODO
+
+- [ ] Add delivery notifications in DM
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
